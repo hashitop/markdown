@@ -1,15 +1,18 @@
-# H1
+# Heading
+Markdown uses # for heading ranging from 1 to 6 and biggest to smallest respectively
+`#` `##` `###` `####` `#####` `######`
+
+# Font Styles
+
+Bold | Italic | Strikethrough
+--------- | --------- | -------
+\*\*Bold\*\* | \*Italic\* | \~\~strike\~\~
+\_\_Bold\_\_ | \_Italic\_ |
+**Bold** | *Italic* | ~~strike~~
 
 
-## Font Styles
 
-**Bold**
-__Bold__
-
-*Italic*
-_Italic_
-
-## Bullet Points
+# Items
 
 * Item 1
 * Item 2
@@ -19,38 +22,51 @@ _Italic_
     * Item 2.1
     * Item 2.2
 
-Someone said
+# Indent
 
-> Simple, Modular, Composable
+It is said
+
+> Simple, Modular, Composable are the key
+
 > Immutable is `important`
 
-Tasks
+
+# Tasks
 
 - [x] To Do 1
 - [ ] To Do 2
+
+# Code
 
 ```
 if(somethingIsWrong) {
    break;
 }
 ```
+
+###### With syntax highlights
+
 ```java
 if(somethingIsWrong) {
    break;
 }
 ```
-Header1 | Header2
--- | --
-Cell1 | Cell2
 
-@hashitop - alone in myORG
+@hashitop
+
+# Emoji!!!
 
 :bowtie:
 
-https://github.com/hashitop!
+[Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+# Links
+
+https://github.com/hashitop
 
 [GitHub](https://github.com/hashitop)
 
-~~strikethrough~~
+
+# Section Link
 
 [Fonts - Section Link](https://github.com/hashitop/markdown/blob/master/README.md#font-styles)
