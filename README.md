@@ -53,4 +53,4 @@ https://github.com/hashitop!
 
 ~~strikethrough~~
 
-[Fonts](https://github.com/hashitop/markdown/blob/master/README.md#font-styles)
+[Fonts - Section Link](https://github.com/hashitop/markdown/blob/master/README.md#font-styles)
