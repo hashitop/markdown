@@ -32,3 +32,5 @@ if(somethingIsWrong) {
    break;
 }
 ```
+
+You, @kikitux, are rock!
