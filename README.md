@@ -49,4 +49,4 @@ https://github.com/hashitop!
 
 [GitHub](https://github.com/hashitop)
 
---strikethrough--
+~~strikethrough~~
