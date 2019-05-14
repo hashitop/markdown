@@ -1,13 +1,15 @@
 # H1
 
 
-###### H6
+## Font Styles
 
 **Bold**
 __Bold__
 
 *Italic*
 _Italic_
+
+## Bullet Points
 
 * Item 1
 * Item 2
