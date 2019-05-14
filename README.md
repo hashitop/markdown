@@ -22,6 +22,11 @@ Someone said
 > Simple, Modular, Composable
 > Immutable is `important`
 
+Tasks
+
+- [x] To Do 1
+- [ ] To Do 2
+
 ```
 if(somethingIsWrong) {
    break;
