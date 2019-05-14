@@ -37,5 +37,4 @@ if(somethingIsWrong) {
    break;
 }
 ```
-
-You, @kikitux , are rock!
+@hashitop alone in myORG
