@@ -21,3 +21,9 @@ Someone said
 
 > Simple, Modular, Composable
 > Immutable is `important`
+
+```
+if(somethingIsWrong) {
+   break;
+}
+```
